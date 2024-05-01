@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1001/1001.iml" filepath="$PROJECT_DIR$/1001/1001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1002/1002.iml" filepath="$PROJECT_DIR$/1002/1002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1003/1003.iml" filepath="$PROJECT_DIR$/1003/1003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1004/1004.iml" filepath="$PROJECT_DIR$/1004/1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1001/1001.iml" filepath="$PROJECT_DIR$/Java/1001/1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1002/1002.iml" filepath="$PROJECT_DIR$/Java/1002/1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1003/1003.iml" filepath="$PROJECT_DIR$/Java/1003/1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1004/1004.iml" filepath="$PROJECT_DIR$/Java/1004/1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1005/1005.iml" filepath="$PROJECT_DIR$/Java/1005/1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/1006/1006.iml" filepath="$PROJECT_DIR$/Java/1006/1006.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd.iml" filepath="$PROJECT_DIR$/.idea/beecrowd.iml" />
     </modules>
   </component>
